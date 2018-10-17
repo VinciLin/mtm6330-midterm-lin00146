@@ -9,14 +9,6 @@
   "author": "Fangyuan Lin",
   "license": "ISC",
   "devDependencies": {
-    "node-sass": "^4.9.3"
-  },
-  "dependencies": {
-    "autoprefixer": "^9.1.5",
-    "cssnano": "^4.1.4",
-    "gulp": "^3.9.1",
-    "gulp-postcss": "^8.0.0",
-    "gulp-sass": "^4.0.1"
+    "node-sass": "^4.9.4"
   }
-
 }
