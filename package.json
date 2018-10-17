@@ -1,13 +1,13 @@
 {
-  "name": "mid-term",
+  "name": "midterm",
   "version": "1.0.0",
-  "description": "Landing page for mindfulness",
+  "description": "responsive website",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+    "compile:sass": "node-sass sass/main.scss css/main.css -w"
   },
   "author": "Fangyuan Lin",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "node-sass": "^4.9.4"
   }
